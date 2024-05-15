@@ -1,4 +1,4 @@
-https://fr.javascript.info/comparison
+// https://fr.javascript.info/comparison
 
 /* ------------------------------------------
 
